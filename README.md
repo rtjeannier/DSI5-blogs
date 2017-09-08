@@ -16,7 +16,7 @@ To submit, add your link to the table below:
 | Week 8        | https://medium.com/@rtjeannier/pandas-101-cont-9d061cb73bfc					|
 | Week 9        | https://medium.com/@rtjeannier/whats-the-point-of-pca-anyway-279cf0ef0683					|
 | Week 10       | https://medium.com/@rtjeannier/police-shootings-by-race-a0478bb26cc4						|
-| Week 11       | https://medium.com/p/6ff028c911c5/edit|
+| Week 11       | https://medium.com/@rtjeannier/using-pca-to-visualize-high-dimensional-data-6ff028c911c5|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
